@@ -1,7 +1,4 @@
 {
-
-
-
 	"Background" :"white",
 	"Foreground" :"Grey02",
 	"Foreground-alt":"Primary",
@@ -20,30 +17,16 @@
 	        "Stroke": "Grey02 @10%a"
 	      }
 },
-
-
-
-
-"Typography": {
+  "Typography": {
     "Headings" : "colourway.Foreground",
     "Paragraphs" :"colourway.Foreground @80%a",
     "Text-alt": "Foreground-alt",
     "Text-links" :"Secondary"
   },
-
-
-
-
   "Furniture": {
     "Divider" :"{colourway.Foreground}{30%a}",
     "Separator": "colourway.Foreground-Alt"
   } ,
-	
-
-
-
-
-
   "FormComponent":{
 
 
@@ -51,74 +34,68 @@
      
      "Input": {
             "default":{
-          "border": "Grey09",
-          "Background" :"White",
-          "PreandSuffix": "Secondary",
-          "Userinput" :"Grey02"
-          "Placeholder": "Grey02 {30%a}",
+              "border": "{Grey09}",
+              "Background" :"{White}",
+              "PreandSuffix": "{Secondary",
+              "Userinput" :"{Grey02}",
+              "Placeholder": "{Grey02}{30%a}"
             },
             "focus":{
                 "extends":"{default}",
-          "border": "Primary"
+            "border": "Primary"
             },
             "error":{
                 "extends":"{default}",
-          "border": "Alert01"
-            }
+            "border": "Alert01"
+              }
     
     
     }
 },
-
-
-
-
-"Badge": {
-    "Tag": "colourway.Foreground",
-    "Chiclet": {
-        "Primary": {
-            "Background": "Primary",
-            "Label": "Primary_Contrast",
-        },
-
-        "Highlight": {
-            "Background": "Highlight",
-            "Label": "Highlight-Contrast",
-        },
-
-        "Warning": {
-            "Background": "Warning01",
-            "Label": "Warning_Contrast",
-
-        },
-        "Alert": {
-            "Background": "Alert01",
-            "Label": "Alert_Contrast"
-        },
-
-        "Neutral": {
-            "Background": "colourway.Foreground",
-            "Label": "Colourway.Background"
-        },
-        "Muted": {
-            "Background": "Colourway.Foreground{20%a}",
-            "Label": "Colourway.Foreground"
-        }
-},
-
-
-
-"Button": {
+  "Badge": {
+      "Tag": "colourway.Foreground",
+      "Chiclet": {
+          "Primary": {
+              "Background": "Primary",
+              "Label": "Primary_Contrast"
+          },
+  
+          "Highlight": {
+              "Background": "Highlight",
+              "Label": "Highlight-Contrast"
+          },
+  
+          "Warning": {
+              "Background": "Warning01",
+              "Label": "Warning_Contrast"
+  
+          },
+          "Alert": {
+              "Background": "Alert01",
+              "Label": "Alert_Contrast"
+          },
+  
+          "Neutral": {
+              "Background": "{Foreground}",
+              "Label": "{Background}"
+          },
+          "Muted": {
+              "Background": "Colourway.Foreground{20%a}",
+              "Label": "Colourway.Foreground"
+          }
+        } 
+  },
+  "Button": {
     "Primary": {
-        "Default": {
-            "Background": "CTA",
-            "Label": "{CTA_Contrast}",
+              "Default": {
+          "Background": "CTA",
+          "Label": "{CTA_Contrast}"
               }
     },
     "Secondary": {
               "Default": {
           "border": "{colourway.Foreground}{75%a}",
-          "Label": "{colourway.Foreground}",
+          "Label": "{colourway.Foreground}"
               }
     },
     "Tertiary": {
@@ -128,9 +105,6 @@
               }
     }
 }
-
-
-
 
 
 }
