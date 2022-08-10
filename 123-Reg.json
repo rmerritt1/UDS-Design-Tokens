@@ -363,25 +363,13 @@
       "type": "other"
     }
   },
-  "GU S - override": {
+  "Grid Unit": {
     "1GU": {
       "value": "6",
       "type": "other"
     }
   },
-  "GU M - override": {
-    "1GU": {
-      "value": "6",
-      "type": "other"
-    }
-  },
-  "GU L - override": {
-    "1GU": {
-      "value": "10",
-      "type": "other"
-    }
-  },
-  "TS-S": {
+  "Font Sizes": {
     "Font-size-Display": {
       "value": "48",
       "type": "fontSizes"
@@ -427,235 +415,37 @@
       "type": "fontSizes"
     }
   },
-  "TS-M": {
-    "Font-size-Display": {
-      "value": "48",
-      "type": "fontSizes"
-    },
-    "Font-size-XXL": {
-      "value": "32",
-      "type": "fontSizes"
-    },
-    "Font-size-XL": {
-      "value": "28",
-      "type": "fontSizes"
-    },
-    "Font-size-L": {
-      "value": "24",
-      "type": "fontSizes"
-    },
-    "Font-size-M": {
-      "value": "21",
-      "type": "fontSizes"
-    },
-    "Font-size-S": {
-      "value": "18",
-      "type": "fontSizes"
-    },
-    "Font-size-XS": {
-      "value": "16",
-      "type": "fontSizes"
-    },
-    "Font-size-XXS": {
-      "value": "14",
-      "type": "fontSizes"
-    },
-    "Font-size-BC": {
-      "value": "16",
-      "type": "fontSizes"
-    },
-    "Font-size-FN": {
-      "value": "14",
-      "type": "fontSizes"
-    },
-    "Font-size-SP": {
-      "value": "12",
-      "type": "fontSizes"
-    }
-  },
-  "TS-L": {
-    "Font-size-Display": {
-      "value": "63",
-      "type": "fontSizes"
-    },
-    "Font-size-XXL": {
-      "value": "42",
-      "type": "fontSizes"
-    },
-    "Font-size-XL": {
-      "value": "36",
-      "type": "fontSizes"
-    },
-    "Font-size-L": {
-      "value": "32",
-      "type": "fontSizes"
-    },
-    "Font-size-M": {
-      "value": "28",
-      "type": "fontSizes"
-    },
-    "Font-size-S": {
-      "value": "24",
-      "type": "fontSizes"
-    },
-    "Font-size-XS": {
-      "value": "21",
-      "type": "fontSizes"
-    },
-    "Font-size-XXS": {
-      "value": "18",
-      "type": "fontSizes"
-    },
-    "Font-size-BC": {
-      "value": "16",
-      "type": "fontSizes"
-    },
-    "Font-size-FN": {
-      "value": "14",
-      "type": "fontSizes"
-    },
-    "Font-size-SP": {
-      "value": "12",
-      "type": "fontSizes"
-    }
-  },
-  "Crv-none": {
+  "Curvature": {
     "Cards": {
-      "value": "0",
+      "value": "1 * {1GU}",
       "type": "borderRadius"
     },
     "Button-L": {
-      "value": "0",
+      "value": "1 * {1GU}",
       "type": "borderRadius"
     },
     "Button-M": {
-      "value": "0",
+      "value": "1 * {1GU}",
       "type": "borderRadius"
     },
     "Button-S": {
-      "value": "0",
+      "value": ".5 * {1GU}",
       "type": "borderRadius"
     },
     "Button--on_Input-M": {
-      "value": "0",
-      "type": "borderRadius"
-    },
-    "Input-L": {
-      "value": "0",
-      "type": "borderRadius"
-    },
-    "Input-M": {
-      "value": "0",
-      "type": "borderRadius"
-    },
-    "Badge": {
-      "value": "0",
-      "type": "borderRadius"
-    }
-  },
-  "Crv-weak": {
-    "Cards": {
-      "value": "1 * {1GU}",
-      "type": "borderRadius"
-    },
-    "Button-L": {
-      "value": "2 * {1GU}",
-      "type": "borderRadius"
-    },
-    "Button-M": {
-      "value": "1 * {1GU}",
-      "type": "borderRadius"
-    },
-    "Button-S": {
       "value": "0.5 * {1GU}",
       "type": "borderRadius"
     },
-    "Button--on_Input-M": {
-      "value": "1 * {1GU}",
-      "type": "borderRadius"
-    },
     "Input-L": {
-      "value": "2 * {1GU}",
+      "value": "1 * {1GU}",
       "type": "borderRadius"
     },
     "Input-M": {
-      "value": "0.5 * {1GU}",
+      "value": ".5 * {1GU}",
       "type": "borderRadius"
     },
     "Badge": {
-      "value": "0.5 * {1GU}",
-      "type": "borderRadius"
-    }
-  },
-  "Crv-medium": {
-    "Cards": {
-      "value": "2 * {1GU}",
-      "type": "borderRadius"
-    },
-    "Button-L": {
-      "value": "3 * {1GU}",
-      "type": "borderRadius"
-    },
-    "Button-M": {
-      "value": "2 * {1GU}",
-      "type": "borderRadius"
-    },
-    "Button-S": {
-      "value": "1 * {1GU}",
-      "type": "borderRadius"
-    },
-    "Button--on_Input-M": {
-      "value": "2 * {1GU}",
-      "type": "borderRadius"
-    },
-    "Input-L": {
-      "value": "3 * {1GU}",
-      "type": "borderRadius"
-    },
-    "Input-M": {
-      "value": "1 * {1GU}",
-      "type": "borderRadius"
-    },
-    "Badge": {
-      "value": "1 * {1GU}",
-      "type": "borderRadius"
-    },
-    "None": {
-      "value": "0",
-      "type": "borderRadius"
-    }
-  },
-  "Crv-strong": {
-    "Cards": {
-      "value": "3 * {1GU}",
-      "type": "borderRadius"
-    },
-    "Button-L": {
-      "value": "4 * {1GU}",
-      "type": "borderRadius"
-    },
-    "Button-M": {
-      "value": "3 * {1GU}",
-      "type": "borderRadius"
-    },
-    "Button-S": {
-      "value": "2 * {1GU}",
-      "type": "borderRadius"
-    },
-    "Button--on_Input-M": {
-      "value": "1 * {1GU}",
-      "type": "borderRadius"
-    },
-    "Input-L": {
-      "value": "4 * {1GU}",
-      "type": "borderRadius"
-    },
-    "Input-M": {
-      "value": "1.5 * {1GU}",
-      "type": "borderRadius"
-    },
-    "Badge": {
-      "value": "1.5 * {1GU}",
+      "value": ".5 * {1GU}",
       "type": "borderRadius"
     }
   },
