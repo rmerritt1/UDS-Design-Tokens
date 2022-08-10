@@ -131,7 +131,7 @@
   },
   "Fonts": {
     "Headings": {
-      "value": "Catamaran",
+      "value": "Rubik",
       "type": "fontFamilies"
     },
     "Content": {
@@ -371,7 +371,7 @@
   },
   "GU M - override": {
     "1GU": {
-      "value": "8",
+      "value": "6",
       "type": "other"
     }
   },
