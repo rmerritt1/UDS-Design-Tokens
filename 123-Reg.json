@@ -1,43 +1,43 @@
 {
   "Brand Colours": {
     "Primary": {
-      "value": "#08a964",
+      "value": "#0091d3",
       "type": "color"
     },
     "Primary contrast": {
-      "value": "#fffffe",
+      "value": "#ffffff",
       "type": "color"
     },
     "Secondary": {
-      "value": "#023f2b",
+      "value": "#23699f",
       "type": "color"
     },
     "Tertiary": {
-      "value": "#d9f2e9",
+      "value": "#60c8f8",
       "type": "color"
     },
     "Highlight": {
-      "value": "#cf213b",
+      "value": "#e1144d",
       "type": "color"
     },
     "Highlight contrast": {
-      "value": "#fffffe",
+      "value": "#ffffff",
       "type": "color"
     },
     "CTA": {
-      "value": "#0cf947",
+      "value": "#8dc63f",
       "type": "color"
     },
     "CTA-contrast": {
-      "value": "#023f2b",
+      "value": "#ffffff",
       "type": "color"
     },
     "Header": {
-      "value": "#023f2b",
+      "value": "#0269a0",
       "type": "color"
     },
     "Header-contrast": {
-      "value": "#fffffe",
+      "value": "#ffffff",
       "type": "color"
     },
     "Gradient-colour": {
