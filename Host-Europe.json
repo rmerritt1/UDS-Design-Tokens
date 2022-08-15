@@ -747,7 +747,7 @@
       }
     }
   },
-  "✅ colourway-light": {
+  "🎨 colourway-light": {
     "Background": {
       "value": "{White}",
       "type": "color"
@@ -997,7 +997,7 @@
       }
     }
   },
-  "✅ colourway-neutral": {
+  "🎨 colourway-neutral": {
     "Background": {
       "value": "{Grey12}",
       "type": "color"
@@ -1247,7 +1247,7 @@
       }
     }
   },
-  "✅ colourway-dark": {
+  "🎨 colourway-dark": {
     "Background": {
       "value": "{Grey02}",
       "type": "color"
@@ -1497,7 +1497,7 @@
       }
     }
   },
-  "✅ colourway-primary": {
+  "🎨 colourway-primary": {
     "Background": {
       "value": "{Primary}",
       "type": "color"
@@ -1747,7 +1747,7 @@
       }
     }
   },
-  "✅ colourway-highlight": {
+  "🎨 colourway-highlight": {
     "Background": {
       "value": "{Highlight}",
       "type": "color"
@@ -1997,5 +1997,24 @@
       }
     }
   },
-  "$themes": []
+  "$themes": [],
+  "$metadata": {
+    "tokenSetOrder": [
+      "⛔️ Brand Colours",
+      "⛔️ Grey-colours",
+      "⛔️ Action Colours",
+      "⛔️ Fonts",
+      "⛔️ Sizes",
+      "⛔️ hex-alpha-percent",
+      "⛔️ Grid Unit",
+      "⛔️ Font Sizes",
+      "⛔️ Curvature",
+      "⛔️ Component Tokens",
+      "🎨 colourway-light",
+      "🎨 colourway-neutral",
+      "🎨 colourway-dark",
+      "🎨 colourway-primary",
+      "🎨 colourway-highlight"
+    ]
+  }
 }
