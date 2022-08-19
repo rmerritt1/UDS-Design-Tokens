@@ -1178,6 +1178,158 @@
         }
       }
     },
+    "Card": {
+      "Typography": {
+        "Headings": {
+          "value": "{Grey02}",
+          "type": "color"
+        },
+        "Paragraphs": {
+          "value": "{Grey02}{80%a}",
+          "type": "color"
+        },
+        "Terms-Footer": {
+          "value": "{Grey04}",
+          "type": "color"
+        }
+      },
+      "Card-Background": {
+        "Background": {
+          "value": "{White}",
+          "type": "color"
+        },
+        "Stroke": {
+          "value": "{Grey02}{10%a}",
+          "type": "color"
+        }
+      },
+      "Button": {
+        "Primary": {
+          "Default": {
+            "Background": {
+              "value": "{CTA}",
+              "type": "color"
+            },
+            "Label": {
+              "value": "{CTA-contrast}",
+              "type": "color"
+            }
+          }
+        },
+        "Secondary": {
+          "Default": {
+            "border": {
+              "value": "{Grey02}{75%a}",
+              "type": "color"
+            },
+            "Label": {
+              "value": "{Grey02}",
+              "type": "color"
+            }
+          }
+        },
+        "Tertiary": {
+          "Default": {
+            "border": {
+              "value": "{Grey02}{30%a}",
+              "type": "color"
+            },
+            "Label": {
+              "value": "{Grey02}",
+              "type": "color"
+            }
+          }
+        }
+      },
+      "Badge": {
+        "Tag": {
+          "value": "{Grey02}",
+          "type": "color"
+        },
+        "Chiclet": {
+          "Primary": {
+            "Background": {
+              "value": "{Primary}",
+              "type": "color"
+            },
+            "Label": {
+              "value": "{Primary contrast}",
+              "type": "color"
+            }
+          },
+          "Highlight": {
+            "Background": {
+              "value": "{Highlight}",
+              "type": "color"
+            },
+            "Label": {
+              "value": "{Highlight contrast}",
+              "type": "color"
+            }
+          },
+          "Warning": {
+            "Background": {
+              "value": "{Warning01}",
+              "type": "color"
+            },
+            "Label": {
+              "value": "{Grey02}",
+              "type": "color"
+            }
+          },
+          "Alert": {
+            "Background": {
+              "value": "{Alert01}",
+              "type": "color"
+            },
+            "Label": {
+              "value": "#ffffff",
+              "type": "color"
+            }
+          },
+          "Neutral": {
+            "Background": {
+              "value": "{Grey02}",
+              "type": "color"
+            },
+            "Label": {
+              "value": "{White}",
+              "type": "color"
+            }
+          },
+          "Muted": {
+            "Background": {
+              "value": "{Grey02}{20%a}",
+              "type": "color"
+            },
+            "Label": {
+              "value": "{Grey02}",
+              "type": "color"
+            }
+          }
+        }
+      },
+      "Endorse-Banner": {
+        "Background": {
+          "value": "{Primary}",
+          "type": "color"
+        },
+        "Label": {
+          "value": "{White}",
+          "type": "color"
+        }
+      },
+      "Colour-Divider": {
+        "Default": {
+          "value": "{Grey06}",
+          "type": "color"
+        },
+        "Endorse": {
+          "value": "{Primary}",
+          "type": "color"
+        }
+      }
+    },
     "Typography": {
       "Headings": {
         "value": "{Foreground}",
@@ -1424,6 +1576,158 @@
         },
         "Stroke": {
           "value": "{Foreground}{10%a}",
+          "type": "color"
+        }
+      }
+    },
+    "Card": {
+      "Typography": {
+        "Headings": {
+          "value": "{Grey02}",
+          "type": "color"
+        },
+        "Paragraphs": {
+          "value": "{Grey02}{80%a}",
+          "type": "color"
+        },
+        "Terms-Footer": {
+          "value": "{White}",
+          "type": "color"
+        }
+      },
+      "Card-Background": {
+        "Background": {
+          "value": "{White}",
+          "type": "color"
+        },
+        "Stroke": {
+          "value": "{Grey02}{10%a}",
+          "type": "color"
+        }
+      },
+      "Button": {
+        "Primary": {
+          "Default": {
+            "Background": {
+              "value": "{CTA}",
+              "type": "color"
+            },
+            "Label": {
+              "value": "{CTA-contrast}",
+              "type": "color"
+            }
+          }
+        },
+        "Secondary": {
+          "Default": {
+            "border": {
+              "value": "{Grey02}{75%a}",
+              "type": "color"
+            },
+            "Label": {
+              "value": "{Grey02}",
+              "type": "color"
+            }
+          }
+        },
+        "Tertiary": {
+          "Default": {
+            "border": {
+              "value": "{Grey02}{30%a}",
+              "type": "color"
+            },
+            "Label": {
+              "value": "{Grey02}",
+              "type": "color"
+            }
+          }
+        }
+      },
+      "Badge": {
+        "Tag": {
+          "value": "{Grey02}",
+          "type": "color"
+        },
+        "Chiclet": {
+          "Primary": {
+            "Background": {
+              "value": "{Primary}",
+              "type": "color"
+            },
+            "Label": {
+              "value": "{Primary contrast}",
+              "type": "color"
+            }
+          },
+          "Highlight": {
+            "Background": {
+              "value": "{Highlight}",
+              "type": "color"
+            },
+            "Label": {
+              "value": "{Highlight contrast}",
+              "type": "color"
+            }
+          },
+          "Warning": {
+            "Background": {
+              "value": "{Warning01}",
+              "type": "color"
+            },
+            "Label": {
+              "value": "{Grey02}",
+              "type": "color"
+            }
+          },
+          "Alert": {
+            "Background": {
+              "value": "{Alert01}",
+              "type": "color"
+            },
+            "Label": {
+              "value": "#ffffff",
+              "type": "color"
+            }
+          },
+          "Neutral": {
+            "Background": {
+              "value": "{Grey02}",
+              "type": "color"
+            },
+            "Label": {
+              "value": "{White}",
+              "type": "color"
+            }
+          },
+          "Muted": {
+            "Background": {
+              "value": "{Grey02}{20%a}",
+              "type": "color"
+            },
+            "Label": {
+              "value": "{Grey02}",
+              "type": "color"
+            }
+          }
+        }
+      },
+      "Endorse-Banner": {
+        "Background": {
+          "value": "{Primary}",
+          "type": "color"
+        },
+        "Label": {
+          "value": "{White}",
+          "type": "color"
+        }
+      },
+      "Colour-Divider": {
+        "Default": {
+          "value": "{Grey06}",
+          "type": "color"
+        },
+        "Endorse": {
+          "value": "{Primary}",
           "type": "color"
         }
       }
@@ -1678,6 +1982,158 @@
         }
       }
     },
+    "Card": {
+      "Typography": {
+        "Headings": {
+          "value": "{Grey02}",
+          "type": "color"
+        },
+        "Paragraphs": {
+          "value": "{Grey02}{80%a}",
+          "type": "color"
+        },
+        "Terms-Footer": {
+          "value": "{White}",
+          "type": "color"
+        }
+      },
+      "Card-Background": {
+        "Background": {
+          "value": "{White}",
+          "type": "color"
+        },
+        "Stroke": {
+          "value": "{Grey02}{10%a}",
+          "type": "color"
+        }
+      },
+      "Button": {
+        "Primary": {
+          "Default": {
+            "Background": {
+              "value": "{CTA}",
+              "type": "color"
+            },
+            "Label": {
+              "value": "{CTA-contrast}",
+              "type": "color"
+            }
+          }
+        },
+        "Secondary": {
+          "Default": {
+            "border": {
+              "value": "{Grey02}{75%a}",
+              "type": "color"
+            },
+            "Label": {
+              "value": "{Grey02}",
+              "type": "color"
+            }
+          }
+        },
+        "Tertiary": {
+          "Default": {
+            "border": {
+              "value": "{Grey02}{30%a}",
+              "type": "color"
+            },
+            "Label": {
+              "value": "{Grey02}",
+              "type": "color"
+            }
+          }
+        }
+      },
+      "Badge": {
+        "Tag": {
+          "value": "{Grey02}",
+          "type": "color"
+        },
+        "Chiclet": {
+          "Primary": {
+            "Background": {
+              "value": "{Primary}",
+              "type": "color"
+            },
+            "Label": {
+              "value": "{Primary contrast}",
+              "type": "color"
+            }
+          },
+          "Highlight": {
+            "Background": {
+              "value": "{Highlight}",
+              "type": "color"
+            },
+            "Label": {
+              "value": "{Highlight contrast}",
+              "type": "color"
+            }
+          },
+          "Warning": {
+            "Background": {
+              "value": "{Warning01}",
+              "type": "color"
+            },
+            "Label": {
+              "value": "{Grey02}",
+              "type": "color"
+            }
+          },
+          "Alert": {
+            "Background": {
+              "value": "{Alert01}",
+              "type": "color"
+            },
+            "Label": {
+              "value": "#ffffff",
+              "type": "color"
+            }
+          },
+          "Neutral": {
+            "Background": {
+              "value": "{Grey02}",
+              "type": "color"
+            },
+            "Label": {
+              "value": "{White}",
+              "type": "color"
+            }
+          },
+          "Muted": {
+            "Background": {
+              "value": "{Grey02}{20%a}",
+              "type": "color"
+            },
+            "Label": {
+              "value": "{Grey02}",
+              "type": "color"
+            }
+          }
+        }
+      },
+      "Endorse-Banner": {
+        "Background": {
+          "value": "{Grey02}",
+          "type": "color"
+        },
+        "Label": {
+          "value": "{White}",
+          "type": "color"
+        }
+      },
+      "Colour-Divider": {
+        "Default": {
+          "value": "{Grey06}",
+          "type": "color"
+        },
+        "Endorse": {
+          "value": "{Grey02}",
+          "type": "color"
+        }
+      }
+    },
     "Typography": {
       "Headings": {
         "value": "{Foreground}",
@@ -1924,6 +2380,158 @@
         },
         "Stroke": {
           "value": "{Foreground}{10%a}",
+          "type": "color"
+        }
+      }
+    },
+    "Card": {
+      "Typography": {
+        "Headings": {
+          "value": "{Grey02}",
+          "type": "color"
+        },
+        "Paragraphs": {
+          "value": "{Grey02}{80%a}",
+          "type": "color"
+        },
+        "Terms-Footer": {
+          "value": "{White}",
+          "type": "color"
+        }
+      },
+      "Card-Background": {
+        "Background": {
+          "value": "{White}",
+          "type": "color"
+        },
+        "Stroke": {
+          "value": "{Grey02}{10%a}",
+          "type": "color"
+        }
+      },
+      "Button": {
+        "Primary": {
+          "Default": {
+            "Background": {
+              "value": "{CTA}",
+              "type": "color"
+            },
+            "Label": {
+              "value": "{CTA-contrast}",
+              "type": "color"
+            }
+          }
+        },
+        "Secondary": {
+          "Default": {
+            "border": {
+              "value": "{Grey02}{75%a}",
+              "type": "color"
+            },
+            "Label": {
+              "value": "{Grey02}",
+              "type": "color"
+            }
+          }
+        },
+        "Tertiary": {
+          "Default": {
+            "border": {
+              "value": "{Grey02}{30%a}",
+              "type": "color"
+            },
+            "Label": {
+              "value": "{Grey02}",
+              "type": "color"
+            }
+          }
+        }
+      },
+      "Badge": {
+        "Tag": {
+          "value": "{Grey02}",
+          "type": "color"
+        },
+        "Chiclet": {
+          "Primary": {
+            "Background": {
+              "value": "{Primary}",
+              "type": "color"
+            },
+            "Label": {
+              "value": "{Primary contrast}",
+              "type": "color"
+            }
+          },
+          "Highlight": {
+            "Background": {
+              "value": "{Highlight}",
+              "type": "color"
+            },
+            "Label": {
+              "value": "{Highlight contrast}",
+              "type": "color"
+            }
+          },
+          "Warning": {
+            "Background": {
+              "value": "{Warning01}",
+              "type": "color"
+            },
+            "Label": {
+              "value": "{Grey02}",
+              "type": "color"
+            }
+          },
+          "Alert": {
+            "Background": {
+              "value": "{Alert01}",
+              "type": "color"
+            },
+            "Label": {
+              "value": "#ffffff",
+              "type": "color"
+            }
+          },
+          "Neutral": {
+            "Background": {
+              "value": "{Grey02}",
+              "type": "color"
+            },
+            "Label": {
+              "value": "{White}",
+              "type": "color"
+            }
+          },
+          "Muted": {
+            "Background": {
+              "value": "{Grey02}{20%a}",
+              "type": "color"
+            },
+            "Label": {
+              "value": "{Grey02}",
+              "type": "color"
+            }
+          }
+        }
+      },
+      "Endorse-Banner": {
+        "Background": {
+          "value": "{Grey02}",
+          "type": "color"
+        },
+        "Label": {
+          "value": "{White}",
+          "type": "color"
+        }
+      },
+      "Colour-Divider": {
+        "Default": {
+          "value": "{Grey06}",
+          "type": "color"
+        },
+        "Endorse": {
+          "value": "{Grey02}",
           "type": "color"
         }
       }
