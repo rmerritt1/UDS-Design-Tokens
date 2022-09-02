@@ -1774,7 +1774,7 @@
         "type": "color"
       },
       "Text-links": {
-        "value": "{Secondary}",
+        "value": "{Tertiary}",
         "type": "color"
       }
     },
