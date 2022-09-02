@@ -956,6 +956,20 @@
         "type": "color"
       }
     },
+    "Billboard": {
+      "Gradient": {
+        "Background": {
+          "value": "linear-gradient(90deg, rgba({Background}, 0.9) 0%, rgba({Background}, 0.8) 30%, rgba({Background}, 0) 100%)",
+          "type": "color"
+        }
+      },
+      "Fill": {
+        "Background": {
+          "value": "{Background}{85%a}",
+          "type": "color"
+        }
+      }
+    },
     "FormComponent": {
       "label": {
         "value": "{Foreground}",
@@ -1356,6 +1370,20 @@
       "Separator": {
         "value": "{Foreground-alt}",
         "type": "color"
+      }
+    },
+    "Billboard": {
+      "Gradient": {
+        "Background": {
+          "value": "linear-gradient(90deg, rgba({Background}, 0.9) 0%, rgba({Background}, 0.8) 30%, rgba({Background}, 0) 100%)",
+          "type": "color"
+        }
+      },
+      "Fill": {
+        "Background": {
+          "value": "{Background}{85%a}",
+          "type": "color"
+        }
       }
     },
     "FormComponent": {
@@ -1760,6 +1788,20 @@
         "type": "color"
       }
     },
+    "Billboard": {
+      "Gradient": {
+        "Background": {
+          "value": "linear-gradient(90deg, rgba({Background}, 0.9) 0%, rgba({Background}, 0.8) 30%, rgba({Background}, 0) 100%)",
+          "type": "color"
+        }
+      },
+      "Fill": {
+        "Background": {
+          "value": "{Background}{85%a}",
+          "type": "color"
+        }
+      }
+    },
     "FormComponent": {
       "label": {
         "value": "{Foreground}",
@@ -2162,6 +2204,20 @@
         "type": "color"
       }
     },
+    "Billboard": {
+      "Gradient": {
+        "Background": {
+          "value": "linear-gradient(90deg, rgba({Background}, 0.9) 0%, rgba({Background}, 0.8) 30%, rgba({Background}, 0) 100%)",
+          "type": "color"
+        }
+      },
+      "Fill": {
+        "Background": {
+          "value": "{Background}{85%a}",
+          "type": "color"
+        }
+      }
+    },
     "FormComponent": {
       "label": {
         "value": "{Foreground}",
@@ -2562,6 +2618,20 @@
       "Separator": {
         "value": "{Foreground-alt}",
         "type": "color"
+      }
+    },
+    "Billboard": {
+      "Gradient": {
+        "Background": {
+          "value": "linear-gradient(90deg, rgba({Background}, 0.9) 0%, rgba({Background}, 0.8) 30%, rgba({Background}, 0) 100%)",
+          "type": "color"
+        }
+      },
+      "Fill": {
+        "Background": {
+          "value": "{Background}{85%a}",
+          "type": "color"
+        }
       }
     },
     "FormComponent": {
