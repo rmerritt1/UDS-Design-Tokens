@@ -377,7 +377,7 @@
           "type": "sizing"
         },
         "XS": {
-          "value": "{Ribbon.content 12col.XS}",
+          "value": "({Ribbon.content 12col.XS} - 1 * {1GU}) / 12 * 6",
           "type": "sizing"
         }
       },
