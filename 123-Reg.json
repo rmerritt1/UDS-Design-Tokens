@@ -117,7 +117,7 @@
       "type": "borderRadius"
     },
     "Button-L": {
-      "value": "1 * {1GU}",
+      "value": "2 * {1GU}",
       "type": "borderRadius"
     },
     "Button-M": {
