@@ -801,6 +801,16 @@
           "type": "color"
         }
       },
+      "Card-Noteworthy": {
+        "Background": {
+          "value": "{Primary}",
+          "type": "color"
+        },
+        "Stroke": {
+          "value": "{Primary}",
+          "type": "color"
+        }
+      },
       "Button": {
         "Primary": {
           "Default": {
@@ -1220,6 +1230,16 @@
         },
         "Stroke": {
           "value": "{Grey02}{10%a}",
+          "type": "color"
+        }
+      },
+      "Card-Noteworthy": {
+        "Background": {
+          "value": "{Primary}",
+          "type": "color"
+        },
+        "Stroke": {
+          "value": "{Primary}",
           "type": "color"
         }
       },
@@ -1645,6 +1665,16 @@
           "type": "color"
         }
       },
+      "Card-Noteworthy": {
+        "Background": {
+          "value": "{Primary}",
+          "type": "color"
+        },
+        "Stroke": {
+          "value": "{Foreground}{10%a}",
+          "type": "color"
+        }
+      },
       "Button": {
         "Primary": {
           "Default": {
@@ -2067,6 +2097,16 @@
           "type": "color"
         }
       },
+      "Card-Noteworthy": {
+        "Background": {
+          "value": "{Primary}",
+          "type": "color"
+        },
+        "Stroke": {
+          "value": "{Foreground}{10%a}",
+          "type": "color"
+        }
+      },
       "Button": {
         "Primary": {
           "Default": {
@@ -2486,6 +2526,16 @@
         },
         "Stroke": {
           "value": "{Grey02}{10%a}",
+          "type": "color"
+        }
+      },
+      "Card-Noteworthy": {
+        "Background": {
+          "value": "{Primary}",
+          "type": "color"
+        },
+        "Stroke": {
+          "value": "{Foreground}{10%a}",
           "type": "color"
         }
       },
