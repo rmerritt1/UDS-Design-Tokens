@@ -69,35 +69,35 @@
       "type": "fontWeights"
     },
     "Font-size-Display": {
-      "value": "55",
+      "value": "48",
       "type": "fontSizes"
     },
     "Font-size-XXL": {
-      "value": "36",
-      "type": "fontSizes"
-    },
-    "Font-size-XL": {
       "value": "32",
       "type": "fontSizes"
     },
-    "Font-size-L": {
+    "Font-size-XL": {
       "value": "28",
       "type": "fontSizes"
     },
-    "Font-size-M": {
+    "Font-size-L": {
       "value": "24",
       "type": "fontSizes"
     },
-    "Font-size-S": {
+    "Font-size-M": {
       "value": "21",
       "type": "fontSizes"
     },
-    "Font-size-XS": {
+    "Font-size-S": {
       "value": "18",
       "type": "fontSizes"
     },
-    "Font-size-XXS": {
+    "Font-size-XS": {
       "value": "16",
+      "type": "fontSizes"
+    },
+    "Font-size-XXS": {
+      "value": "14",
       "type": "fontSizes"
     },
     "Font-size-BC": {
