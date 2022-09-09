@@ -113,7 +113,7 @@
       "type": "fontSizes"
     },
     "Cards": {
-      "value": "1 * {1GU}",
+      "value": "0.5 * {1GU}",
       "type": "borderRadius"
     },
     "Button-L": {
@@ -129,19 +129,19 @@
       "type": "borderRadius"
     },
     "Button--on_Input-M": {
-      "value": "0.5 * {1GU}",
+      "value": "0 * {1GU}",
       "type": "borderRadius"
     },
     "Input-L": {
-      "value": "1 * {1GU}",
+      "value": "0 * {1GU}",
       "type": "borderRadius"
     },
     "Input-M": {
-      "value": ".5 * {1GU}",
+      "value": "0 * {1GU}",
       "type": "borderRadius"
     },
     "Badge": {
-      "value": ".5 * {1GU}",
+      "value": "0 * {1GU}",
       "type": "borderRadius"
     }
   },
