@@ -49,15 +49,15 @@
       "type": "color"
     },
     "1GU": {
-      "value": "6",
+      "value": "8",
       "type": "other"
     },
     "Headings": {
-      "value": "Rubik",
+      "value": "GD Sage",
       "type": "fontFamilies"
     },
     "Content": {
-      "value": "Open Sans",
+      "value": "GD Sherpa",
       "type": "fontFamilies"
     },
     "Regular": {
@@ -65,7 +65,7 @@
       "type": "fontWeights"
     },
     "medium": {
-      "value": "{Regular}",
+      "value": "Bold",
       "type": "fontWeights"
     },
     "Font-size-Display": {
