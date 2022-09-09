@@ -1,7 +1,7 @@
 {
   "✏️ Brand Theme": {
     "Primary": {
-      "value": "#0091d3",
+      "value": "#111111",
       "type": "color"
     },
     "Primary contrast": {
@@ -9,7 +9,7 @@
       "type": "color"
     },
     "Secondary": {
-      "value": "#23699f",
+      "value": "#00838C",
       "type": "color"
     },
     "Tertiary": {
@@ -25,7 +25,7 @@
       "type": "color"
     },
     "CTA": {
-      "value": "#8dc63f",
+      "value": "#111111",
       "type": "color"
     },
     "CTA-contrast": {
@@ -117,15 +117,15 @@
       "type": "borderRadius"
     },
     "Button-L": {
-      "value": "2 * {1GU}",
+      "value": "0 * {1GU}",
       "type": "borderRadius"
     },
     "Button-M": {
-      "value": "1 * {1GU}",
+      "value": "0 * {1GU}",
       "type": "borderRadius"
     },
     "Button-S": {
-      "value": ".5 * {1GU}",
+      "value": "0 * {1GU}",
       "type": "borderRadius"
     },
     "Button--on_Input-M": {
