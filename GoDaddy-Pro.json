@@ -9,15 +9,15 @@
       "type": "color"
     },
     "Secondary": {
-      "value": "#00838C",
+      "value": "#111111",
       "type": "color"
     },
     "Tertiary": {
-      "value": "#60c8f8",
+      "value": "#111111",
       "type": "color"
     },
     "Highlight": {
-      "value": "#e1144d",
+      "value": "#09757a",
       "type": "color"
     },
     "Highlight contrast": {
@@ -33,19 +33,19 @@
       "type": "color"
     },
     "Header": {
-      "value": "#0269a0",
-      "type": "color"
-    },
-    "Header-contrast": {
       "value": "#ffffff",
       "type": "color"
     },
+    "Header-contrast": {
+      "value": "#111111",
+      "type": "color"
+    },
     "Gradient-colour": {
-      "value": "#128353",
+      "value": "#111111",
       "type": "color"
     },
     "Primary-gradient": {
-      "value": "linear-gradient(0deg, #08a964 0%, #128353 100%)",
+      "value": "#111111",
       "type": "color"
     },
     "1GU": {
